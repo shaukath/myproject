@@ -9,7 +9,7 @@ public class GenericsEx {
 	System.out.println(myClass.getObj());
 	MyCass<String> myString = new MyCass<String>("456ALI");
 	System.out.println(myString.getObj());
-	
+	System.out.println("Hi");
 
 	}
 
